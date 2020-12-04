@@ -1,0 +1,4 @@
+authname "sima"
+authtype basic
+authuserfile /etc/www.passwd
+require valid-user
